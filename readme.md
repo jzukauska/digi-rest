@@ -18,8 +18,8 @@ Path:
 ```json
 {  
   "sort":"name";
-  "series" = "seriesOptions";
-  "sort_direction" = "sortDirectionOptions";
+  "series":"seriesOptions";
+  "sort_direction":"sortDirectionOptions";
 }
 ```
 
