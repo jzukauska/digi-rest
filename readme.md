@@ -3,7 +3,7 @@
 - Maven 
 
 # Setup
--  `./mvnw install -f pom.xml`
+-  `mvn install`
 # Running
 - `mvn package`
 - `java -jar target/digi-rest-0.0.1-SNAPSHOT.jar`
@@ -83,3 +83,10 @@ seriesOptions:
 - Digimon Card Game
 - Digimon Digi-Battle Card Game
 - Digimon Collectible Card Game 
+
+# Todo
+- [ ] Swagger docs
+- [ ] Input parameter validation
+- [ ] Buffer overflow on big request
+- [ ] Move constants to env
+- [ ] Test suite
