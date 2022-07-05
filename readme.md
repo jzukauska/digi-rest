@@ -17,9 +17,9 @@ Path:
 
 ```json
 {  
-  "sort":"name";
-  "series":"seriesOptions";
-  "sort_direction":"sortDirectionOptions";
+  "sort":"name",
+  "series":"seriesOptions",
+  "sort_direction":"sortDirectionOptions"
 }
 ```
 
