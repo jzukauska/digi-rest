@@ -7,8 +7,11 @@
 # Running
 - `mvn package`
 - `java -jar target/digi-rest-0.0.1-SNAPSHOT.jar`
-- Make requests to: `localhost:8080` if running locally
 
+# Alt docker Setup
+- `docker compose up`
+
+- Make requests to: `localhost:8080` if running locally
 # Api schema
 ## Get all cards: 
 Path:

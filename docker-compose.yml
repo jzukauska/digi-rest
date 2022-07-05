@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  digiRest:
+    build: .
+    image: local/digi-rest
+    ports:
+      - 8080:8080
